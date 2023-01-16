@@ -6,12 +6,12 @@
 <p align="center">Projeto em <strong>React</strong> desenvolvido a fim de testar API de Pokedéx.</p>
 
 <p align="center">
-  <a href="#『rocket』-instalação-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#『computer』-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#『memo』-licença">Licença</a>
+  <a href="#🚀-instalação-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#🔥-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#💻-licença">Licença</a>
 </p>
 
-## 『🧪』 Tecnologias
+## 👾 Tecnologias
 
     Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
@@ -19,11 +19,11 @@
 - [TypeScript](https://www.typescriptlang.org/)
 - [PokeAPI](https://pokeapi.co/)
 
-## 『🔥』 Preview
+## 🔥 Preview
 
 Se você quiser ver com seus próprios olhos acesse [Pokedéx.](https://pokedex.gabarbosa.com/)
 
-## 『🚀』 Instalação e execução
+## 🚀 Instalação e execução
 
 Clone o projeto:
 
