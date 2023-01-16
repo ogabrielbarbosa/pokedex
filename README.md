@@ -50,7 +50,7 @@ Para o desenvolvimento desse projeto foi utilizado a framework ReactJS e TypeScr
 
 ## 📝 Licença
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+Esse projeto tem a licença [MIT License](LICENSE.md).
 
 ---
 
