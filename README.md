@@ -2,46 +2,53 @@
   <img alt="Mockup - Pokedex" src="https://raw.githubusercontent.com/gist/ogabrielbarbosa/937e474d13511b4ff25f3f40c62aa83e/raw/f77dc9a16a92d77edc4c01437baab66ede7d5b6e/pokedexmock.svg" width="100%">
 </p>
 
-## 『🧪』 Technologies
+<h1 align="center">Pokedéx</h1>
+<p align="center">Projeto em <strong>React</strong> desenvolvido a fim de testar API de Pokedéx.</p>
 
-This project was developed using the following technologies:
+<p align="center">
+  <a href="#『rocket』-instalação-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#『computer』-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#『memo』-licença">Licença</a>
+</p>
+
+## 『🧪』 Tecnologias
+
+    Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Vite](https://vitejs.dev/)
-
-This project was developed using the following technologies:
+- [PokeAPI](https://pokeapi.co/)
 
 ## 『🔥』 Preview
 
-If you want to see by your own [Pokedéx.](https://pokedex.gabarbosa.com/)
+Se você quiser ver com seus próprios olhos acesse [Pokedéx.](https://pokedex.gabarbosa.com/)
 
-## 『🚀』 Getting started
+## 『🚀』 Instalação e execução
 
-Clone the project and access the folder.
+Clone o projeto:
 
 ```bash
 git clone https://github.com/ogabrielbarbosa/pokedex.git
 cd pokedex
 ```
 
-Follow the steps below:
+Siga os seguintes passos:
 
 ```bash
-# Install the dependencies
+# Instalar dependências
 $ npm install
 
-# Start the project
+# Rodar projeto
 $ npm run dev
 ```
 
-The app will be available for access on your browser at <http://localhost:3000>
+O app estará disponível para acesso em seu navegador em <http://localhost:3000>
 
-## 💻 Project
+## 💻 Projeto
 
-To develop a web platform for listing and viewing pokemons, ReactJS was used to build this project. All data about pokémons such as name, number, type, image and among other things, were possible using the REST API [PokéApi](https://pokeapi.co/).
+Para o desenvolvimento desse projeto foi utilizado a framework ReactJS e TypeScript. Todos os dados dos pokémons foram tirados da [PokéApi](https://pokeapi.co/).
 
-## 📝 License
+## 📝 Licença
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
