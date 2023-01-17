@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Mockup - Pokedex" src="src/" width="100%">
+  <img alt="Mockup - Pokedex" src="https://raw.githubusercontent.com/ogabrielbarbosa/pokedex/main/src/assets/Pok%C3%A9dex.png" width="100%">
 </p>
 
 <h1 align="center">TCC - Professor</h1>
